@@ -1,4 +1,4 @@
-🏦 AICTE Internship - Finance Management System (Week 2)
+🏦 AICTE Internship - Finance Management System 
 
 🚀 Finance Management System is a MERN stack-based application developed as part of the AICTE-Edunet Internship Program. The project helps users manage their financial transactions efficiently with features like real-time updates, authentication, and document management.
 
